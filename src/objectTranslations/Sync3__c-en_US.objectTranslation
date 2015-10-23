@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Sync3</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Sync3</value>
+    </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sync2 --></label>
+        <name>Sync2__c</name>
+        <relationshipLabel><!-- Sync3 --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- Sync3Email --></label>
+        <name>Sync3Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sync3Phone --></label>
+        <name>Sync3Phone__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
